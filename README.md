@@ -8,3 +8,4 @@ JSON join kernel, and hang the other models onto the join interface. My developm
 This project is a lot like the HpergraphDB, built on top of BerkeleyDB, a very good idea. I likely will be looking at HypergraphDB for some clues and idea. I am not hurrying this project up.
 
 My main purpose here is to promote Lazy Json, a json format syntax with redundancies removed, match, pass and collect operators added. The kernel has name space capability, and this project does not use json-ld, it simply introduces keywords just like javascript does. That is the plan, when json adds something, I find the same thing in javascript and add it to the kernel.
+I will be uploading the code soon, in its current condition (poor).
